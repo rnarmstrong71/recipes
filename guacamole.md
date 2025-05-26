@@ -5,3 +5,4 @@
 * salt: 2 per kg
 
 ## Instructions
+* peel the avocados
